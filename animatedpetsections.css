@@ -82,7 +82,7 @@ div.userPetList.margin-1[class*="cat-group--"]:hover > ul {
     }
 .ul__pet {
     display: flex;
-    width: 100px;
+    width: 120px;
     overflow: hidden;
     height: 0;
     transition: height 0.5s ease;
