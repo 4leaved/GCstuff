@@ -78,7 +78,7 @@ div.userPetList.margin-1[class*="cat-group--"]:hover > ul {
     transition: row-gap 0.5s ease, padding 0.5s ease
     }
 .ul--sectionheader:hover + .userPetList .ul__pet, .userPetList:hover .ul__pet {
-    height: 145px
+    height: 120px
     }
 .ul__pet {
     display: flex;
@@ -106,7 +106,7 @@ div.userPetList.margin-1[class*="cat-group--"]:hover > ul {
                                 this is the section width in narrow mode. you may have to change
                                 this value if your images are a different size.
                               */
-        max-width: 452px
+        max-width: 500px
         }
     /* hacky way to avoid !important */
     #userPetList#userPetList > div {
