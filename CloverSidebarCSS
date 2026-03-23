@@ -1,0 +1,73 @@
+/* SIDEBAR */
+#sb_top, .sb_top {
+    background-image: url(https://64.media.tumblr.com/b81a903000fa21abcecd0e3b347d55c2/62873a74db35937f-e5/s1280x1920/7f571287b5ef32acf1ea49015b3384e27b8a28a4.pnj);
+    z-index: 99
+    }
+#top-bar-info {
+    color: white
+    }
+#userinfo a, #sb_lang a, .user-info a {
+    color: #a574b6;
+    text-shadow: -1px -1px 0 LavenderBlush, 1px -1px 0 LavenderBlush, -1px 1px 0 LavenderBlush, 1px 1px 0 LavenderBlush
+    }
+.nst {
+    background: #a574b6;
+    color: #212121;
+    border: 1px solid LavenderBlush
+    }
+#sb_createpet, #sb_petcentral, #sb_explore, #sb_games, #sb_neomail, #sb_shops, #sb_boards, #sb_news, #sb_stuff, #sb_help, #sb_login, #sb_logout {
+    background-image: url(https://64.media.tumblr.com/c719f2d8cd8f4efd53ffcd2939ca5f3b/2150915112cc13fa-72/s400x600/44a4d4ed6b609899d63aafc9008d1592da974cd1.pnj);
+    width: 130px
+    }
+#sb_createpet:hover {
+    background-position: 132px 0
+    }
+#sb_petcentral:hover {
+    background-position: 132px -53px
+    }
+#sb_explore:hover {
+    background-position: 132px -106px
+    }
+#sb_games:hover {
+    background-position: 132px -138px
+    }
+#sb_neomail:hover {
+    background-position: 132px -170px
+    }
+#sb_shops:hover {
+    background-position: 132px -202px
+    }
+#sb_boards:hover {
+    background-position: 132px -234px
+    }
+#sb_news:hover {
+    background-position: 132px -266px
+    }
+#sb_stuff:hover {
+    background-position: 132px -300px
+    }
+#sb_help:hover {
+    background-position: 132px -334px
+    }
+#sb_login:hover {
+    background-position: 132px -369px
+    }
+#sb_logout:hover {
+    background-position: 132px -399px
+    }
+#sb_nav, #sb_side {
+    background-image: url(https://images.neopets.com/themes/h5/neggs/images/pattern-header.png)
+    }
+#sb_side {
+    border-color: #522239;
+    border-width: 0 2px 2px 0;
+    border-style: solid;
+    padding-bottom: 20px;
+    width: 130px
+    }
+#sb_edge {
+    display: none
+    }
+#sb_side::after {
+    display: none
+    }
