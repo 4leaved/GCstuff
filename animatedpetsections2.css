@@ -78,7 +78,7 @@ div.userPetList.margin-1[class*="cat-group--"]:hover > ul {
     transition: row-gap 0.5s ease, padding 0.5s ease
     }
 .ul--sectionheader:hover + .userPetList .ul__pet, .userPetList:hover .ul__pet {
-    height: 150px
+    height: 130px
     }
 .ul__pet {
     display: flex;
