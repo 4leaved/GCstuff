@@ -1,0 +1,40 @@
+#sb_top, .sb_top {
+    background-image: url(https://64.media.tumblr.com/c9c18b5d98d3d09c3dfe49a55077eb4e/74c938ebc24a1ae0-ba/s2048x3072/ebdbc3a36138d0f4e13c3335561c4fe0368b8ae6.pnj);
+    background-size: 729px 44px;
+    background-repeat: no-repeat
+    }
+#userinfo, .user-info {
+    color: brown
+    }
+#sb_lang {
+    color: LightGreen
+	}
+#userinfo a, #sb_lang a, .user-info a {
+    color: white
+    }
+.sb-custom-css {
+	color: #758aff
+	}
+#sb_createpet, #sb_petcentral, #sb_explore, #sb_games, #sb_neomail, #sb_shops, #sb_boards, #sb_news, #sb_stuff, #sb_help, #sb_login, #sb_logout {
+    background-image: url(https://64.media.tumblr.com/c719f2d8cd8f4efd53ffcd2939ca5f3b/2150915112cc13fa-72/s400x600/44a4d4ed6b609899d63aafc9008d1592da974cd1.pnj);
+    width: 130px
+    }
+#sb_nav, #sb_side {
+    background-image: url(https://images.neopets.com/themes/h5/neggs/images/pattern-header.png)
+    }
+#sb_side {
+    border-color: #522239;
+    border-width: 0 2px 2px 0;
+    border-style: solid;
+    padding-bottom: 20px;
+    width: 130px
+    }
+#sb_edge {
+    display: none
+	}
+.nst {
+    background: LightGreen;
+    color: black;
+    border: 1px solid black
+    }
+	

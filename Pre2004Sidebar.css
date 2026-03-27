@@ -1,0 +1,33 @@
+#userinfo, .user-info, #sb_clock, #sb_search, #sb_banner, #sb_lang {
+    color: black
+    }
+#userinfo a, #sb_lang a, .user-info a {
+    color: #009
+    }
+#sb_top, .sb_top {
+    width: 731px;
+    background-size: 731px 44px
+    }
+#sb_createpet, #sb_petcentral, #sb_explore, #sb_games, #sb_neomail, #sb_shops, #sb_boards, #sb_news, #sb_stuff, #sb_help, #sb_login, #sb_logout {
+    background-size: 202%
+    }
+#sb_top, .sb_top {
+    background-image: url(https://64.media.tumblr.com/40668d0fd8e8cfb1668bea0ad7e15c02/0e802b8f4e522486-fd/s1280x1920/7687398aa189a33001f4e451718048e607a2ff92.pnj)
+    }
+#sb_createpet, #sb_petcentral, #sb_explore, #sb_games, #sb_neomail, #sb_shops, #sb_boards, #sb_news, #sb_stuff, #sb_help, #sb_login, #sb_logout {
+    background-image: url(https://64.media.tumblr.com/2b0edb922e2cbecff6331d465e048206/f96da0f503ca85e9-99/s400x600/66fa227857e178501a45d599169af4116bc8c4c5.pnj);
+    width: 130px
+    }
+#sb_side {
+    border-color: #000;
+    border-width: 0 2px 2px 0;
+    border-style: solid;
+    border-radius: 0 0 10px 0;
+    padding-bottom: 20px;
+    width: 130px;
+    background: #FECE00 !important
+    }
+#sb_edge {
+    display: none
+    }
+	

@@ -1,0 +1,81 @@
+#sb_top, .sb_top {
+    background-image: url(https://64.media.tumblr.com/d6a561c45940790e341f3b3385bad86c/7a8c8b743a4786de-5d/s1280x1920/d3513abca145dd3398dd5a28fdd1d124095267f1.pnj)
+    }
+#userinfo, .user-info {
+    color: #e55d03
+    }
+#userinfo a, #sb_lang a, .user-info a {
+    color: #76279c
+    }
+#sb_clock, #sb_search, #sb_banner, #sb_lang {
+    color: #ff9c39
+    }
+.sb-custom-css {
+    color: #b59cff !important
+    }
+#sb_createpet, #sb_petcentral, #sb_explore, #sb_games, #sb_neomail, #sb_shops, #sb_boards, #sb_news, #sb_stuff, #sb_help, #sb_login, #sb_logout {
+    background-image: url(https://64.media.tumblr.com/715efc7ef195ae752371e4c5e3b21cdf/7a8c8b743a4786de-0d/s400x600/a00d784a8bc64b58b358bcd861f4ef290b8f079b.pnj);
+    width: 130px
+    }
+#sb_createpet:hover {
+    background-position: 132px 0
+    }
+#sb_petcentral:hover {
+    background-position: 132px -53px
+    }
+#sb_explore:hover {
+    background-position: 132px -106px
+    }
+#sb_games:hover {
+    background-position: 132px -138px
+    }
+#sb_neomail:hover {
+    background-position: 132px -170px
+    }
+#sb_shops:hover {
+    background-position: 132px -202px
+    }
+#sb_boards:hover {
+    background-position: 132px -234px
+    }
+#sb_news:hover {
+    background-position: 132px -266px
+    }
+#sb_stuff:hover {
+    background-position: 132px -300px
+    }
+#sb_help:hover {
+    background-position: 132px -334px
+    }
+#sb_login:hover {
+    background-position: 132px -369px
+    }
+#sb_logout:hover {
+    background-position: 132px -399px
+    }
+#sb_side {
+    background-image: url(https://images.neopets.com/themes/h5/hauntedwoods/images/pattern-footer.png)
+    }
+#sb_nav {
+    background-image: url(https://64.media.tumblr.com/e6fd18a05f22e7ddb6d5fbd2643d97e4/adf94b2828149afb-f3/s400x600/9b8ed03e32b99191c52d1e273fc3646452e273a5.jpg)
+    }
+#sb_side {
+    border-color: #e55d03;
+    border-width: 0 1px 1px 0;
+    border-style: solid;
+    border-radius: 0 0 10px 0;
+    padding-bottom: 20px;
+    width: 130px
+    }
+.nst {
+    background-color: #e55d03;
+    color: #b59cff;
+    font-family: "HemiHead";
+    font-size: 1.25em;
+    padding: 3px;
+    margin: 0;
+    border-radius: 1px
+    }
+#sb_edge {
+	display: none
+	}

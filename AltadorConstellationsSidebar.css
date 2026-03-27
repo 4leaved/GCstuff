@@ -1,0 +1,101 @@
+#sb_top, .sb_top {
+    background-image: url(https://images.neopets.com/t/acp/hdr.gif);
+    background-position: 1px 0
+    }
+#sb_createpet, #sb_petcentral, #sb_explore, #sb_games, #sb_neomail, #sb_shops, #sb_boards, #sb_news, #sb_stuff, #sb_help, #sb_login, #sb_logout {
+    background-image: url(https://64.media.tumblr.com/8db06e533dd73d29b981a18e3beff8c9/49c514ac641a2b80-de/s400x600/a133dde47cd686743a9ea2a364a000b013c06409.pnj);
+    width: 130px
+    }
+#sb_createpet:hover {
+    background-position: 130px 0
+    }
+#sb_petcentral:hover {
+    background-position: 130px -53px
+    }
+#sb_explore:hover {
+    background-position: 130px -106px
+    }
+#sb_games:hover {
+    background-position: 130px -138px
+    }
+#sb_neomail:hover {
+    background-position: 130px -170px
+    }
+#sb_shops:hover {
+    background-position: 130px -202px
+    }
+#sb_boards:hover {
+    background-position: 130px -234px
+    }
+#sb_news:hover {
+    background-position: 130px -266px
+    }
+#sb_stuff:hover {
+    background-position: 130px -300px
+    }
+#sb_help:hover {
+    background-position: 130px -334px
+    }
+#sb_login:hover {
+    background-position: 130px -369px
+    }
+#sb_logout:hover {
+    background-position: 130px -399px
+    }
+#sb_side {
+    background-image: url(https://images.neopets.com/t/acp/ms.gif);
+    background-color: transparent;
+    border-right: 0;
+    width: 130px;
+    background-position: 0 426px
+    }
+#sb_edge {
+    height: 242px;
+    margin-top: 44px
+    }
+#sb_edge.bottom_1 {
+    background-image: url(https://images.neopets.com/t/acp/12.gif)
+    }
+#sb_edge.bottom_2 {
+    background-image: url(https://images.neopets.com/t/acp/2.gif)
+    }
+#sb_edge.bottom_3 {
+    background-image: url(https://images.neopets.com/t/acp/3.gif)
+    }
+#sb_edge.bottom_4 {
+    background-image: url(https://images.neopets.com/t/acp/4.gif)
+    }
+#sb_edge.bottom_5 {
+    background-image: url(https://images.neopets.com/t/acp/5.gif)
+    }
+#sb_edge.bottom_6 {
+    background-image: url(https://images.neopets.com/t/acp/6.gif)
+    }
+#sb_edge.bottom_7 {
+    background-image: url(https://images.neopets.com/t/acp/7.gif)
+    }
+#sb_edge.bottom_8 {
+    background-image: url(https://images.neopets.com/t/acp/8.gif)
+    }
+#sb_edge.bottom_9 {
+    background-image: url(https://images.neopets.com/t/acp/9.gif)
+    }
+#sb_edge.bottom_10 {
+    background-image: url(https://images.neopets.com/t/acp/10.gif)
+    }
+#sb_edge.bottom_11 {
+    background-image: url(https://images.neopets.com/t/acp/11.gif)
+    }
+#sb_clock, #sb_search, #sb_banner, #sb_lang {
+    margin-right: 8px
+    }
+#userinfo, .user-info, #sb_clock, #sb_search, #sb_banner, #sb_lang {
+    color: #6bb6de
+    }
+#userinfo a, #sb_lang a, .user-info a {
+    color: #ffbd96
+    }
+#sb_edge::after {
+	display: none
+	}
+	
