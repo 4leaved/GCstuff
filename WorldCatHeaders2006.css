@@ -1,0 +1,123 @@
+/* I need to put these in chrono order at some point... */
+.cat-header--Kiko {
+    font-size: 0
+    }
+.cat-header--Kiko::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_kik.png);
+    filter: hue-rotate(-45deg)
+    }
+.cat-header--Roo {
+    font-size: 0
+    }
+.cat-header--Roo::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_roo.png)
+    }
+.cat-header--Neopia {
+    font-size: 0
+    }
+.cat-header--Neopia::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_neo.png)
+    }
+.cat-header--Haunted {
+    font-size: 0
+    }
+.cat-header--Haunted::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_hwd.png)
+    }
+.cat-header--Faerieland {
+    font-size: 0
+    }
+.cat-header--Faerieland::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_fld.png)
+    }
+.cat-header--Brightvale {
+    font-size: 0
+    }
+.cat-header--Brightvale::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_brv.png)
+    }
+.cat-header--Darigan {
+    font-size: 0
+    }
+.cat-header--Darigan::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_dar.png)
+    }
+.cat-header--Kreludor {
+    font-size: 0
+    }
+.cat-header--Kreludor::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_kre.png)
+    }
+.cat-header--Lutari {
+    font-size: 0
+    }
+.cat-header--Lutari::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_lut.png)
+    }
+.cat-header--Mystery {
+    font-size: 0
+    }
+.cat-header--Mystery::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_myi.png)
+    }
+.cat-header--Krawk {
+    font-size: 0
+    }
+.cat-header--Krawk::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_kra.png)
+    }
+.cat-header--Shenkuu {
+    font-size: 0
+    }
+.cat-header--Shenkuu::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_sku.png)
+    }
+.cat-header--Lost {
+    font-size: 0
+    }
+.cat-header--Lost::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_lds.png)
+    }
+.cat-header--Terror {
+    font-size: 0
+    }
+.cat-header--Terror::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_trm.png)
+    }
+.cat-header--Moltara {
+    font-size: 0
+    }
+.cat-header--Moltara::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_mlt.png)
+    }
+.cat-header--Virtupets {
+    font-size: 0
+    }
+.cat-header--Virtupets::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_vss.png)
+    }
+.cat-header--Tyrannia {
+    font-size: 0
+    }
+.cat-header--Tyrannia::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_tyr.png)
+    }
+.cat-header--Maraqua {
+    font-size: 0
+    }
+.cat-header--Maraqua::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_mar.png)
+    }
+.cat-header--Meridell {
+    font-size: 0
+    }
+.cat-header--Meridell::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_mer.png);
+    filter: hue-rotate(-50deg) saturate(85%)
+    }
+.cat-header--Altador {
+    font-size: 0
+    }
+.cat-header--Altador::after {
+    content: url(https://images.neopets.com/games/arcade/cat/world_alt.png)
+    }
