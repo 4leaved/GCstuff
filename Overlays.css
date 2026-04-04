@@ -1,0 +1,26 @@
+/* Beloved Beasties */
+.ul__pet:hover {
+    transform: scale(1.1)
+    }
+.ul__pet:hover img {
+    border-radius: 5px
+    }
+.ul__pet {
+    padding: 2px
+    }
+.ul--petimg {
+    width: 100px
+    }
+.ul__Clover img {
+    content: url(https://64.media.tumblr.com/f5cc52401b1e3551a1f8861493067219/f2739fd84a56b360-d6/s540x810/8b9d1c660e97cabe17de02c6938c9d4c7aa65520.pnj)
+    }
+.ul__Natchez img {
+    content: url(https://grundoscafe.b-cdn.net/pets/happy/krawk_camouflage.gif)
+    }
+.ul__Winnifer img {
+    content: url(https://64.media.tumblr.com/143d98821039a600a596a90af6506370/2426efd6d48e4f1a-bc/s2048x3072/b6c9ef37c070e4a7829e4c00160a47083dc8d259.pnj)
+    }
+.ul__Nehi img {
+    content: url(https://64.media.tumblr.com/975c3b26631f95bb5be9b922602e8668/d636b511c6434626-2b/s400x600/47608a895ef0b7cccf4dafe74558dc16af37fd1f.pnj);
+    background-color: white
+    }
