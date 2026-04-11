@@ -1,0 +1,88 @@
+hr, .pet--statsheader, .pet--smallname, .petJobs, #petLead, #page_footer, #petBattle, #petLinks, .pet--petpetheader, .pet--height, .pet--weight {
+    display: none
+    }
+#petLookupContent {
+    position: relative;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-areas: "top top" "petpet empty" "trophies links" "desc desc" "trade trade";
+    width: 100%;
+    gap: unset;
+    justify-items: center;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 4px
+    }
+#petTop {
+    grid-area: top;
+    width: 100%
+    }
+#petInfo {
+    display: grid;
+    width: 100%;
+    background-color: white;
+    grid-template-columns: 50%;
+    align-items: center
+    }
+#petImage {
+    grid-area: image;
+    width: 50%;
+    position: absolute;
+    top: 75px
+    }
+#petStats {
+    grid-area: stats;
+    text-align: right
+    }
+#petPetpet {
+    width: 49%;
+    position: absolute;
+    left: 0%;
+    top: 225px;
+    padding-left: 10px;
+    font-size: 8pt
+    }
+#petDescription {
+    font-size: small;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-areas: "top2 top2" "left right";
+    grid-area: desc;
+    border-radius: 5px;
+    width: 100%;
+    margin-top: 1em
+    }
+#top2 {
+    grid-area: top2;
+    width: 95%;
+    border-radius: 5px;
+    justify-self: center;
+    padding-bottom: 10px
+    }
+#left {
+    grid-area: left;
+    width: 95%;
+    border-radius: 5px;
+    justify-self: center;
+    padding-bottom: 10px
+    }
+#right {
+    grid-area: right;
+    width: 95%;
+    border-radius: 5px;
+    justify-self: center;
+    padding-bottom: 10px
+    }
+h3 {
+    font-size: medium
+    }
+.pet--no-trade-alert {
+    grid-area: trade;
+    background-color: transparent;
+    width: auto;
+    margin: 1em
+    }
+#sb_edge {
+    display: none
+    }
