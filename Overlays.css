@@ -17,10 +17,13 @@
 .ul__Natchez img {
     content: url(https://grundoscafe.b-cdn.net/pets/happy/krawk_camouflage.gif)
     }
-.ul__Winnifer img {
-    content: url(https://64.media.tumblr.com/143d98821039a600a596a90af6506370/2426efd6d48e4f1a-bc/s2048x3072/b6c9ef37c070e4a7829e4c00160a47083dc8d259.pnj)
-    }
 .ul__Nehi img {
     content: url(https://64.media.tumblr.com/975c3b26631f95bb5be9b922602e8668/d636b511c6434626-2b/s400x600/47608a895ef0b7cccf4dafe74558dc16af37fd1f.pnj);
     background-color: white
+    }
+.ul__Plano img {
+    content: url(https://64.media.tumblr.com/da51e447f96626632064c33d607b6f7d/fbd5c1c3dc93ecaf-be/s2048x3072/2f597d040cfb5c813093265415ca9af17cc9a1c4.pnj)
+    }
+.ul__Champlain img {
+    content: url(https://grundoscafe.b-cdn.net/pets/happy/chomby_maraquan.gif)
     }
