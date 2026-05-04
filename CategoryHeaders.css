@@ -120,3 +120,39 @@
 .cat-header--Altador::after {
     content: url(https://images.neopets.com/games/arcade/cat/world_alt.png)
     }
+.cat-header--Earth {
+    font-size: 0
+    }
+.cat-header--Earth::after {
+    content: url(https://images2.imgbox.com/ac/27/Usey4Je2_o.png)
+    }
+.cat-header--Air {
+    font-size: 0
+    }
+.cat-header--Air::after {
+    content: url(https://images2.imgbox.com/d1/82/yVRIpEQc_o.png)
+    }
+.cat-header--Water {
+    font-size: 0
+    }
+.cat-header--Water::after {
+    content: url(https://images2.imgbox.com/30/00/XHEndGGR_o.png)
+    }
+.cat-header--Fire {
+    font-size: 0
+    }
+.cat-header--Fire::after {
+    content: url(https://images2.imgbox.com/79/9a/g1MXimTa_o.png)
+    }
+.cat-header--Light {
+    font-size: 0
+    }
+.cat-header--Light::after {
+    content: url(https://images2.imgbox.com/97/5a/KgNKuzfo_o.png)
+    }
+.cat-header--Dark {
+    font-size: 0
+    }
+.cat-header--Dark::after {
+    content: url(https://images2.imgbox.com/cd/bf/q0GXnkmt_o.png)
+    }
