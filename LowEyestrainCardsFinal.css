@@ -1,0 +1,332 @@
+#ss_board, #pyramids_board {
+    background: #464646 !important; 
+	background: linear-gradient(145deg,rgba(115,125,145, 1) 0%, rgba(70,80,91, 1) 11%, rgba(52,63,69, 1) 33%, rgba(20,20,20, 1) 90%) !important;
+}
+#ss_board img {
+    border-radius: 20px;
+    border: solid 2px #fff
+    }
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/pyramid.gif"] {
+    content: url(https://images2.imgbox.com/29/ac/4ussU2OZ_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/new_open.gif"] {
+    content: url(https://images2.imgbox.com/93/c8/v4Fl76gS_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/2_clubs.gif"] {
+    content: url(https://images2.imgbox.com/1d/39/zXufhmxX_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/3_clubs.gif"] {
+    content: url(https://images2.imgbox.com/2c/73/gSiony3W_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/4_clubs.gif"] {
+    content: url(https://images2.imgbox.com/c1/a7/RKoF3nNc_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/5_clubs.gif"] {
+    content: url(https://images2.imgbox.com/d4/a3/L4zHeLXd_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/6_clubs.gif"] {
+    content: url(https://images2.imgbox.com/84/87/Mrnz6ha0_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/7_clubs.gif"] {
+    content: url(https://images2.imgbox.com/d6/85/64RBhaJ7_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/8_clubs.gif"] {
+    content: url(https://images2.imgbox.com/ed/b9/NVowqGun_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/9_clubs.gif"] {
+    content: url(https://images2.imgbox.com/db/41/f1QbGT9T_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/10_clubs.gif"] {
+    content: url(https://images2.imgbox.com/d3/f6/94MPpxrT_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/11_clubs.gif"] {
+    content: url(https://images2.imgbox.com/0d/74/GFjZkcwA_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/12_clubs.gif"] {
+    content: url(https://images2.imgbox.com/be/b1/0Z2wayvi_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/13_clubs.gif"] {
+    content: url(https://images2.imgbox.com/22/1a/qKuKG9Jp_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/14_clubs.gif"] {
+    content: url(https://images2.imgbox.com/08/3e/ERmpzSOo_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/2_hearts.gif"] {
+    content: url(https://images2.imgbox.com/83/12/Vxq1TKph_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/3_hearts.gif"] {
+    content: url(https://images2.imgbox.com/18/a9/GJMjWuN6_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/4_hearts.gif"] {
+    content: url(https://images2.imgbox.com/67/58/fONPb5oA_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/5_hearts.gif"] {
+    content: url(https://images2.imgbox.com/d8/80/20334Oz8_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/6_hearts.gif"] {
+    content: url(https://images2.imgbox.com/43/ef/r0miIuke_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/7_hearts.gif"] {
+    content: url(https://images2.imgbox.com/da/a6/YUSl6tpC_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/8_hearts.gif"] {
+    content: url(https://images2.imgbox.com/59/1b/or9ZQPMA_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/9_hearts.gif"] {
+    content: url(https://images2.imgbox.com/1b/4a/LPbSGKlx_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/10_hearts.gif"] {
+    content: url(https://images2.imgbox.com/63/28/4xhdW7cU_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/11_hearts.gif"] {
+    content: url(https://images2.imgbox.com/21/23/kP0NSVPo_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/12_hearts.gif"] {
+    content: url(https://images2.imgbox.com/85/e5/bt2NUkrf_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/13_hearts.gif"] {
+    content: url(https://images2.imgbox.com/76/ac/1fxRfkxU_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/14_hearts.gif"] {
+    content: url(https://images2.imgbox.com/48/c4/NuoB4fCp_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/2_spades.gif"] {
+    content: url(https://images2.imgbox.com/bf/c9/DfYSBLD1_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/3_spades.gif"] {
+    content: url(https://images2.imgbox.com/b2/8f/PpQL6AYr_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/4_spades.gif"] {
+    content: url(https://images2.imgbox.com/f8/72/1L8JaBeJ_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/5_spades.gif"] {
+    content: url(https://images2.imgbox.com/6f/15/RhRVKQbT_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/6_spades.gif"] {
+    content: url(https://images2.imgbox.com/f2/4f/2Xitbigg_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/7_spades.gif"] {
+    content: url(https://images2.imgbox.com/39/e8/pNYMvvB8_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/8_spades.gif"] {
+    content: url(https://images2.imgbox.com/03/10/3TZzyzln_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/9_spades.gif"] {
+    content: url(https://images2.imgbox.com/88/56/w3MseVRf_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/10_spades.gif"] {
+    content: url(https://images2.imgbox.com/ce/20/843YZ8iS_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/11_spades.gif"] {
+    content: url(https://images2.imgbox.com/db/f0/fEsJKJfT_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/12_spades.gif"] {
+    content: url(https://images2.imgbox.com/ec/b5/iy1kqaBY_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/13_spades.gif"] {
+    content: url(https://images2.imgbox.com/92/66/YCeCodYQ_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/14_spades.gif"] {
+    content: url(https://images2.imgbox.com/b3/0a/nBLOgVZm_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/2_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/5c/dd/VMfpK0mg_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/3_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/a4/63/IK3EQOMm_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/4_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/3a/7a/K4oSgxiF_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/5_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/f8/5a/5OPTox0w_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/6_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/a9/42/TbaC55Ww_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/7_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/2a/b0/oPYSxjZy_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/8_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/f8/3d/FfDP3M4t_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/9_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/fd/29/eT73EjmR_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/10_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/90/d0/HCzGO7eU_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/11_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/2b/d4/yt2Oyz72_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/12_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/d9/77/VKv0SYnJ_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/13_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/df/0d/kFVyP15C_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/cards/14_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/46/14/7XOGjaiy_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/pyramid.gif"] {
+    content: url(https://images2.imgbox.com/29/ac/4ussU2OZ_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/new_open.gif"] {
+    content: url(https://images2.imgbox.com/93/c8/v4Fl76gS_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/2_clubs.gif"] {
+    content: url(https://images2.imgbox.com/1d/39/zXufhmxX_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/3_clubs.gif"] {
+    content: url(https://images2.imgbox.com/2c/73/gSiony3W_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/4_clubs.gif"] {
+    content: url(https://images2.imgbox.com/c1/a7/RKoF3nNc_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/5_clubs.gif"] {
+    content: url(https://images2.imgbox.com/d4/a3/L4zHeLXd_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/6_clubs.gif"] {
+    content: url(https://images2.imgbox.com/84/87/Mrnz6ha0_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/7_clubs.gif"] {
+    content: url(https://images2.imgbox.com/d6/85/64RBhaJ7_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/8_clubs.gif"] {
+    content: url(https://images2.imgbox.com/ed/b9/NVowqGun_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/9_clubs.gif"] {
+    content: url(https://images2.imgbox.com/db/41/f1QbGT9T_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/10_clubs.gif"] {
+    content: url(https://images2.imgbox.com/d3/f6/94MPpxrT_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/11_clubs.gif"] {
+    content: url(https://images2.imgbox.com/0d/74/GFjZkcwA_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/12_clubs.gif"] {
+    content: url(https://images2.imgbox.com/be/b1/0Z2wayvi_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/13_clubs.gif"] {
+    content: url(https://images2.imgbox.com/22/1a/qKuKG9Jp_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/14_clubs.gif"] {
+    content: url(https://images2.imgbox.com/08/3e/ERmpzSOo_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/2_hearts.gif"] {
+    content: url(https://images2.imgbox.com/83/12/Vxq1TKph_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/3_hearts.gif"] {
+    content: url(https://images2.imgbox.com/18/a9/GJMjWuN6_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/4_hearts.gif"] {
+    content: url(https://images2.imgbox.com/67/58/fONPb5oA_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/5_hearts.gif"] {
+    content: url(https://images2.imgbox.com/d8/80/20334Oz8_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/6_hearts.gif"] {
+    content: url(https://images2.imgbox.com/43/ef/r0miIuke_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/7_hearts.gif"] {
+    content: url(https://images2.imgbox.com/da/a6/YUSl6tpC_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/8_hearts.gif"] {
+    content: url(https://images2.imgbox.com/59/1b/or9ZQPMA_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/9_hearts.gif"] {
+    content: url(https://images2.imgbox.com/1b/4a/LPbSGKlx_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/10_hearts.gif"] {
+    content: url(https://images2.imgbox.com/63/28/4xhdW7cU_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/11_hearts.gif"] {
+    content: url(https://images2.imgbox.com/21/23/kP0NSVPo_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/12_hearts.gif"] {
+    content: url(https://images2.imgbox.com/85/e5/bt2NUkrf_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/13_hearts.gif"] {
+    content: url(https://images2.imgbox.com/76/ac/1fxRfkxU_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/14_hearts.gif"] {
+    content: url(https://images2.imgbox.com/48/c4/NuoB4fCp_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/2_spades.gif"] {
+    content: url(https://images2.imgbox.com/bf/c9/DfYSBLD1_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/3_spades.gif"] {
+    content: url(https://images2.imgbox.com/b2/8f/PpQL6AYr_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/4_spades.gif"] {
+    content: url(https://images2.imgbox.com/f8/72/1L8JaBeJ_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/5_spades.gif"] {
+    content: url(https://images2.imgbox.com/6f/15/RhRVKQbT_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/6_spades.gif"] {
+    content: url(https://images2.imgbox.com/f2/4f/2Xitbigg_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/7_spades.gif"] {
+    content: url(https://images2.imgbox.com/39/e8/pNYMvvB8_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/8_spades.gif"] {
+    content: url(https://images2.imgbox.com/03/10/3TZzyzln_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/9_spades.gif"] {
+    content: url(https://images2.imgbox.com/88/56/w3MseVRf_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/10_spades.gif"] {
+    content: url(https://images2.imgbox.com/ce/20/843YZ8iS_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/11_spades.gif"] {
+    content: url(https://images2.imgbox.com/db/f0/fEsJKJfT_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/12_spades.gif"] {
+    content: url(https://images2.imgbox.com/ec/b5/iy1kqaBY_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/13_spades.gif"] {
+    content: url(https://images2.imgbox.com/92/66/YCeCodYQ_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/14_spades.gif"] {
+    content: url(https://images2.imgbox.com/b3/0a/nBLOgVZm_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/2_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/5c/dd/VMfpK0mg_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/3_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/a4/63/IK3EQOMm_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/4_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/3a/7a/K4oSgxiF_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/5_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/f8/5a/5OPTox0w_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/6_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/a9/42/TbaC55Ww_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/7_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/2a/b0/oPYSxjZy_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/8_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/f8/3d/FfDP3M4t_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/9_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/fd/29/eT73EjmR_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/10_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/90/d0/HCzGO7eU_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/11_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/2b/d4/yt2Oyz72_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/12_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/d9/77/VKv0SYnJ_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/13_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/df/0d/kFVyP15C_o.png)
+}
+img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/14_diamonds.gif"] {
+    content: url(https://images2.imgbox.com/46/14/7XOGjaiy_o.png)
+}
