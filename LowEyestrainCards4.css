@@ -1,6 +1,6 @@
 #ss_board {
     background: #464646 !important; 
-	background: linear-gradient(145deg,rgba(115,115,145, 1) 0%, rgba(70,70,91, 1) 11%, rgba(52,52,69, 1) 33%, rgba(20,20,20, 1) 90%) !important;
+	background: linear-gradient(145deg,rgba(115,145,115, 1) 0%, rgba(70,91,70, 1) 11%, rgba(52,69,52, 1) 33%, rgba(20,20,20, 1) 90%) !important;
 }
 #ss_board img {
     border-radius: 20px;
