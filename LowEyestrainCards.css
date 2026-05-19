@@ -1,8 +1,13 @@
 #ss_board {
-    background: rgba(70,70,70,6) !important
+    background: #464646 !important; 
+	background: linear-gradient(145deg,rgba(70, 70, 70, 1) 0%, rgba(72, 72, 72, 1) 11%, rgba(90, 90, 90, 1) 33%, rgba(145, 145, 145, 1) 90%) !important;
 }
+#ss_board img {
+    border-radius: 20px;
+    border: solid 2px #676767
+    }
 img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/pyramid.gif"] {
-    content: url(https://images.neopets.com/tcg/icon4.gif)
+    content: url(https://images2.imgbox.com/7d/b5/d6jKv7Mj_o.png)
 }
 img[src="https://grundoscafe.b-cdn.net/games/php_games/sakhmetsolitaire/new_open.gif"] {
     content: url(https://images2.imgbox.com/93/c8/v4Fl76gS_o.png)
