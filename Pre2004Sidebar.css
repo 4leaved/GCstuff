@@ -18,6 +18,12 @@
     background-image: url(https://f005.backblazeb2.com/file/Brickshelf/bs01/gallery/clover/GC%20site%20themes/2004Nav.jpg);
     width: 130px
     }
+#sb_nav {
+	border-color: #000;
+    border-width: 0 2px 0 0;
+    border-style: solid;
+	width: 130px !important;
+	}
 #sb_side {
     border-color: #000;
     border-width: 0 2px 2px 0;
