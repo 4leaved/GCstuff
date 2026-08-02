@@ -14,18 +14,14 @@
 #sb_createpet, #sb_petcentral, #sb_explore, #sb_games, #sb_neomail, #sb_shops, #sb_boards, #sb_news, #sb_stuff, #sb_help, #sb_login, #sb_logout {
     background-size: 202%
     }
-#sb_banner img {
-    border: 1px solid var(--sb-side-border-color);
-    border-radius: 1px
-    }
 #sb_top, .sb_top {
-    background-image: url(https://64.media.tumblr.com/6cc7231446405351f15ef8c109f7fb2b/b319c2fd97f1b75b-ef/s2048x3072/a50638ebdab5ce3be934b50868a3201ddb1c1c57.pnj)
+    background-image: url(https://f005.backblazeb2.com/file/Brickshelf/bs01/gallery/clover/GC%20site%20themes/islandtop.png)
     }
 #sb_createpet, #sb_petcentral, #sb_explore, #sb_games, #sb_neomail, #sb_shops, #sb_boards, #sb_news, #sb_stuff, #sb_help, #sb_login, #sb_logout {
-    background-image: url(https://64.media.tumblr.com/9eecbade5352565d679148df3e2a1891/787f6343b14c374f-9b/s640x960/11d502d6c5e0f5aa98024057b7b7507797cfc33a.pnj)
+    background-image: url(https://f005.backblazeb2.com/file/Brickshelf/bs01/gallery/clover/GC%20site%20themes/YellowNav.png)
     }
 #sb_side, #sb_nav {
-    background: url(https://64.media.tumblr.com/0fecc63a17af9b635aacdee2451d1058/b319c2fd97f1b75b-05/s400x600/b8167eaef5da9f305a463571d0b2e9114ca973d5.pnj) left top no-repeat, url(https://images.neopets.com/backgrounds/tm_island4.gif) left bottom repeat
+    background: url(https://f005.backblazeb2.com/file/Brickshelf/bs01/gallery/clover/GC%20site%20themes/IslandSide.png) left top no-repeat, url(https://images.neopets.com/backgrounds/tm_island4.gif) left bottom repeat
     }
 #sb_createpet:hover {
     background-position: 132px 0
