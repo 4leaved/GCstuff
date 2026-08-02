@@ -3,13 +3,16 @@
     background-size: 728px
     }
 #userinfo, .user-info, #sb_clock, #sb_search, #sb_banner, #sb_lang {
-    color: #a663ad
+    color: #a663ad;
+	text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white
     }
 #userinfo a, #sb_lang a, .user-info a {
-    color: #099ECC
+    color: #099ECC;
+	text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white
     }
 .sb-custom-css {
-    color: #099ecc
+    color: #099ecc;
+	text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white
     }
 #sb_createpet, #sb_petcentral, #sb_explore, #sb_games, #sb_neomail, #sb_shops, #sb_boards, #sb_news, #sb_stuff, #sb_help, #sb_login, #sb_logout {
     background-image: url(https://f005.backblazeb2.com/file/Brickshelf/bs01/gallery/clover/GC%20site%20themes/PurpleNavButtons.png);
