@@ -36,4 +36,6 @@
 #userinfo, #sb_clock, #sb_search, #sb_banner, #sb_lang {
     color: black !important
     }
-	
+#sb_side::after {
+	display: none
+	}
