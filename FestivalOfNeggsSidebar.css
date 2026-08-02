@@ -36,6 +36,9 @@
 #sb_edge {
     display: none
 	}
+#sb_side::after {
+	display: none
+	}
 .nst {
     background: LavenderBlush;
     color: White;
