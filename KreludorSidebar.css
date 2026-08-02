@@ -79,3 +79,6 @@
 #sb_edge {
 	display: none
 	}
+#sb_side::after {
+	display: none
+	}
