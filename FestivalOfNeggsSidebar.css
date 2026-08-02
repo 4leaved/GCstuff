@@ -4,16 +4,20 @@
     background-size: 731px 44px
     }
 #userinfo, .user-info {
-    color: #FADF86
+    color: #FADF86;
+	text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white
     }
 #sb_lang {
-    color: LavenderBlush
+    color: LavenderBlush;
+	text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
 	}
 #userinfo a, #sb_lang a, .user-info a {
-    color: LightGreen
+    color: LightGreen;
+	text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
     }
 .sb-custom-css {
-	color: LightGreen
+	color: LightGreen;
+	text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
 	}
 #sb_createpet, #sb_petcentral, #sb_explore, #sb_games, #sb_neomail, #sb_shops, #sb_boards, #sb_news, #sb_stuff, #sb_help, #sb_login, #sb_logout {
     background-image: url(https://f005.backblazeb2.com/file/Brickshelf/bs01/gallery/clover/GC%20site%20themes/CloverNav.png);
