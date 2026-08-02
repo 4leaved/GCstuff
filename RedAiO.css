@@ -1,70 +1,70 @@
 #aio_sidebar {
-    font: 24px Heffaklump;
-    color: black;
-    text-transform: lowercase;
-    text-align: center;
-    line-height: 16px
+    font: 24px Heffaklump !important;
+    color: black !important;
+    text-transform: lowercase !important;
+    text-align: center !important;
+    line-height: 16px !important
     }
 #aio_sidebar &gt; div {
-    border: 2px solid #fff;
-    box-shadow: 0 0 4px rgba(0, 0, 0, 0.7);
-    color: black;
-    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
-    background-color: #ff0006;
-    margin: 5px;
-    padding: 5px;
-    border-radius: 10px;
-    background-size: 135px
+    border: 2px solid #fff !important;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.7) !important;
+    color: black !important;
+    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white !important;
+    background-color: #ff0006 !important;
+    margin: 5px !important;
+    padding: 5px !important;
+    border-radius: 10px !important;
+    background-size: 135px !important
     }
 #aio_sidebar a, #aio_sidebar .aioTxt {
-    color: black;
-    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white
+    color: black !important;
+    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white !important
     }
 #aio_sidebar a:hover {
-    color: IndianRed
+    color: IndianRed !important
     }
 #aio_sidebar small {
-    display: none
+    display: none !important
     }
 #aio_sidebar .aioImg {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 3px;
-    align-items: center;
-    justify-content: center;
-    margin-top: 10px
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 3px !important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin-top: 10px !important
     }
 #aio_sidebar .aioImg img {
-    border-radius: 99px;
-    border: 2px solid black
+    border-radius: 99px !important;
+    border: 2px solid black !important
     }
 #aio_sidebar .aioImg img:hover {
-    border-radius: 99px;
-    border: 2px solid #59ff32
+    border-radius: 99px !important;
+    border: 2px solid #59ff32 !important
     }
 #aio_sidebar &gt; .quests &gt; .aioImg &gt; div br {
-    display: none
+    display: none !important
     }
 #aio_sidebar &gt; .quests &gt; .aioImg &gt; div {
     width: 100% !important;
     margin-bottom: 0 !important;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;
-    gap: 3px
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    overflow: hidden !important;
+    gap: 3px !important
     }
 .aio-training-links {
-    display: block
+    display: block !important
     }
 .aioImg img {
-    background-color: #fff
+    background-color: #fff !important
     }
 .aio-training-links {
-    margin: 6px;
-    font-size: 24px
+    margin: 6px !important;
+    font-size: 24px !important
     }
 .aioTxt {
-    display: flex;
-    flex-direction: column
+    display: flex !important;
+    flex-direction: column !important
     }
