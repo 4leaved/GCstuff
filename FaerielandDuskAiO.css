@@ -1,0 +1,74 @@
+@font-face {
+    font-family: "BankGothic";
+    src: url(/static/games/faeriebubbles/fonts/BankGothic.ttf)
+    }
+#aio_sidebar {
+    font: 24px BankGothic;
+    color: #099ECC;
+    text-transform: lowercase;
+    text-align: center;
+    line-height: 16px
+    }
+#aio_sidebar &gt; div {
+    border: 2px solid #fff;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.7);
+    color: #099ECC;
+    text-shadow: -1px -1px 2px pink, 1px 1px 2px pink;
+    background-image: url(https://images.neopets.com/backgrounds/tm_faeriebubblestile.gif);
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+    background-size: 135px
+    }
+#aio_sidebar a, #aio_sidebar .aioTxt {
+    color: #099ECC;
+    text-shadow: -1px -1px 2px pink, 1px 1px 2px pink
+    }
+#aio_sidebar a:hover {
+    color: AliceBlue
+    }
+#aio_sidebar small {
+    display: none
+    }
+#aio_sidebar .aioImg {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px
+    }
+#aio_sidebar .aioImg img {
+    border-radius: 99px;
+    border: 2px solid #420b57
+    }
+#aio_sidebar .aioImg img:hover {
+    border-radius: 99px;
+    border: 2px solid AliceBlue
+    }
+#aio_sidebar &gt; .quests &gt; .aioImg &gt; div br {
+    display: none
+    }
+#aio_sidebar &gt; .quests &gt; .aioImg &gt; div {
+    width: 100% !important;
+    margin-bottom: 0 !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    gap: 3px
+    }
+.aio-training-links {
+    display: block
+    }
+.aioImg img {
+    background-color: #fff
+    }
+.aio-training-links {
+    margin: 6px;
+    font-size: 24px
+    }
+.aioTxt {
+    display: flex;
+    flex-direction: column
+    }
