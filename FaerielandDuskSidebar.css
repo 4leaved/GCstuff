@@ -60,6 +60,9 @@
 #sb_edge {
     display: none
     }
+#sb_side::after {
+	display: none
+	}
 #sb_side {
     border-color: #bf2e92;
     border-width: 0 2px 2px 0;
