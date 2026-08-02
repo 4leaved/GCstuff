@@ -1,5 +1,5 @@
 #sb_top, .sb_top {
-    background-image: url(https://64.media.tumblr.com/6719ed485f4afc5764e45608ecfd4d07/1ec3ebb8aa9d1ee2-b5/s2048x3072/68a635134dffdfeb52d7287feccfdb35879c10d4.pnj);
+    background-image: url(https://f005.backblazeb2.com/file/Brickshelf/bs01/gallery/clover/GC%20site%20themes/RooIslandTop.png);
     background-size: 727px 44px
     }
 #userinfo, .user-info {
@@ -15,7 +15,7 @@
 	color: #9cdf73
 	}
 #sb_createpet, #sb_petcentral, #sb_explore, #sb_games, #sb_neomail, #sb_shops, #sb_boards, #sb_news, #sb_stuff, #sb_help, #sb_login, #sb_logout {
-    background-image: url(https://64.media.tumblr.com/c719f2d8cd8f4efd53ffcd2939ca5f3b/2150915112cc13fa-72/s400x600/44a4d4ed6b609899d63aafc9008d1592da974cd1.pnj);
+    background-image: url(https://f005.backblazeb2.com/file/Brickshelf/bs01/gallery/clover/GC%20site%20themes/CloverNav.png);
     width: 130px
     }
 #sb_createpet:hover {
@@ -55,8 +55,7 @@
     background-position: 132px -399px
     }
 #sb_nav, #sb_side {
-    background-image: url(https://64.media.tumblr.com/e3434f0096a1b61142ba73c7faf74dca/1ec3ebb8aa9d1ee2-5c/s400x600/4a641fb23af5ae161d6ba7522f8b114353757b8a.pnj), 
-	url(https://64.media.tumblr.com/e3434f0096a1b61142ba73c7faf74dca/1ec3ebb8aa9d1ee2-5c/s400x600/4a641fb23af5ae161d6ba7522f8b114353757b8a.pnj);
+    background-image: url(https://f005.backblazeb2.com/file/Brickshelf/bs01/gallery/clover/GC%20site%20themes/RooIslandSide.png);
     background-position: top, bottom;
     background-repeat: no-repeat, no-repeat
     }
