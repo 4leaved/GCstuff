@@ -37,4 +37,6 @@
     color: black;
     border: 1px solid black
     }
-	
+#sb_side::after {
+	display: none
+	}
