@@ -36,4 +36,6 @@
     margin: 0;
     border-radius: 1px
     }
-	
+#sb_side::after {
+	display: none
+	}
