@@ -15,14 +15,14 @@
     color: #017101 !important
     }
 #sb_top, .sb_top {
-    background-image: url(https://64.media.tumblr.com/d08c67eed9f98d2b3c3f23bc0ffe77ad/787f6343b14c374f-f7/s2048x3072/71eb387645fc2cdadc51f725b5177d913e3bb372.pnj)
+    background-image: url(https://f005.backblazeb2.com/file/Brickshelf/bs01/gallery/clover/GC%20site%20themes/BrightvaleTop.png)
     }
 #sb_createpet, #sb_petcentral, #sb_explore, #sb_games, #sb_neomail, #sb_shops, #sb_boards, #sb_news, #sb_stuff, #sb_help, #sb_login, #sb_logout {
-    background-image: url(https://64.media.tumblr.com/9eecbade5352565d679148df3e2a1891/787f6343b14c374f-9b/s640x960/11d502d6c5e0f5aa98024057b7b7507797cfc33a.pnj);
+    background-image: url(https://f005.backblazeb2.com/file/Brickshelf/bs01/gallery/clover/GC%20site%20themes/CloverNav.png);
     width: 130px
     }
 #sb_nav, #sb_side {
-    background: url(https://64.media.tumblr.com/7aa69f8d4741776482a3e091716aba45/787f6343b14c374f-3a/s400x600/7988d60bafb359e2faae7821b372780552ba4b4f.pnj) left top no-repeat, url(https://images.neopets.com/themes/h5/meridell/images/hp-bg-top.png) left bottom repeat
+    background: url(https://f005.backblazeb2.com/file/Brickshelf/bs01/gallery/clover/GC%20site%20themes/BrightvaleSide.png) left top no-repeat, url(https://images.neopets.com/themes/h5/meridell/images/hp-bg-top.png) left bottom repeat
     }
 #sb_createpet:hover {
     background-position: 132px 0
