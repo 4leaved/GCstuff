@@ -1,0 +1,46 @@
+#sb_top {
+    background-size: auto !important;
+    background-image: url(https://i.imgur.com/jWUw8F3.png), url(https://i.imgur.com/jWUw8F3.png) !important;
+    background-attachment: local, fixed !important;
+    background-position: top left, bottom left !important
+    }
+#sb_createpet, #sb_petcentral, #sb_explore, #sb_games, #sb_neomail, #sb_shops, #sb_boards, #sb_news, #sb_stuff, #sb_help, #sb_login, #sb_logout {
+    background-image: url(https://i.imgur.com/XB01PBd.png) !important;
+    width: 130px !important
+    }
+#sb_createpet:hover {
+    background-position: 130px 0 !important
+    }
+#sb_petcentral:hover {
+    background-position: 130px -53px !important
+    }
+#sb_explore:hover {
+    background-position: 130px -106px !important
+    }
+#sb_games:hover {
+    background-position: 130px -138px !important
+    }
+#sb_neomail:hover {
+    background-position: 130px -170px !important
+    }
+#sb_shops:hover {
+    background-position: 130px -202px !important
+    }
+#sb_boards:hover {
+    background-position: 130px -234px !important
+    }
+#sb_news:hover {
+    background-position: 130px -266px !important
+    }
+#sb_stuff:hover {
+    background-position: 130px -300px !important
+    }
+#sb_help:hover {
+    background-position: 130px -334px !important
+    }
+#sb_login:hover {
+    background-position: 130px -369px !important
+    }
+#sb_logout:hover {
+    background-position: 130px -399px !important
+    }
