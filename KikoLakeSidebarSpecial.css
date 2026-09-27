@@ -1,0 +1,42 @@
+#sb_top, .sb_top {
+    background-image: url(https://f005.backblazeb2.com/file/Brickshelf/bs01/gallery/clover/GC%20site%20themes/KikoLakeTop2.png);
+    background-size: 729px 44px;
+    background-repeat: no-repeat
+    }
+#userinfo, .user-info {
+    color: brown
+    }
+#sb_lang {
+    color: LightGreen
+	}
+#userinfo a, #sb_lang a, .user-info a {
+    color: white
+    }
+.sb-custom-css {
+	color: #758aff
+	}
+#sb_createpet, #sb_petcentral, #sb_explore, #sb_games, #sb_neomail, #sb_shops, #sb_boards, #sb_news, #sb_stuff, #sb_help, #sb_login, #sb_logout {
+    background-image: url(https://f005.backblazeb2.com/file/Brickshelf/bs01/gallery/clover/GC%20site%20themes/CloverNav.png);
+    width: 130px
+    }
+#sb_nav, #sb_side {
+    background-image: url(https://images.neopets.com/themes/h5/neggs/images/pattern-header.png)
+    }
+#sb_side {
+    border-color: #522239;
+    border-width: 0 2px 2px 0;
+    border-style: solid;
+    padding-bottom: 20px;
+    width: 130px
+    }
+#sb_edge {
+    display: none
+	}
+.nst {
+    background: LightGreen;
+    color: black;
+    border: 1px solid black
+    }
+#sb_side::after {
+	display: none
+	}
